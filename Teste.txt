@@ -1,1 +1,3 @@
 Trecho criado na para a branch master
+
+Inclusão de trecho criado na branch Develop
